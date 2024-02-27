@@ -1,0 +1,235 @@
+country,native_name,iso2,iso3,capital,capital_latlng,timezones,region,continent,first_date,last_date
+Afghanistan,افغانستان,AF,AFG,Kabul,"[34.526011, 69.177684]",['UTC+04:30'],Southern and Central Asia,Asia,1966-03-02,2023-08-15
+Albania,Shqipëria,AL,ALB,Tirana,"[41.326873, 19.818791]",['UTC+01:00'],Southern Europe,Europe,1973-02-05,2023-08-15
+Algeria,الجزائر,DZ,DZA,Algiers,"[36.775361, 3.060188]",['UTC+01:00'],Northern Africa,Africa,1940-01-01,2023-08-15
+American Samoa,American Samoa,AS,ASM,Pago Pago,"[-14.275479, -170.70483]",[],Polynesia,Oceania,1945-08-01,2023-08-15
+Angola,Angola,AO,AGO,Luanda,"[-8.82727, 13.243951]",['UTC+01:00'],Central Africa,Africa,1960-04-01,2023-08-15
+Anguilla,Anguilla,AI,AIA,The Valley,"[41.559572, -98.980548]",[],Caribbean,North America,2006-01-01,2023-08-15
+Antigua and Barbuda,Antigua and Barbuda,AG,ATG,Saint John's,"[47.561701, -52.715149]",['UTC−04:00'],Caribbean,North America,1942-01-02,2023-08-15
+Argentina,Argentina,AR,ARG,Buenos Aires,"[-34.607568, -58.437089]",['UTC−03:00'],South America,South America,1908-09-02,2023-08-15
+Armenia,Հայաստան,AM,ARM,Yerevan,"[40.177612, 44.512585]",['UTC+04:00'],Middle East,Asia,1885-06-01,2023-08-15
+Aruba,Aruba,AW,ABW,Oranjestad,"[12.526874, -70.035684]",[],Caribbean,North America,1959-01-01,2023-08-15
+Australia,Australia,AU,AUS,Canberra,"[-35.297591, 149.101268]","['UTC+05:00', 'UTC+06:30', 'UTC+07:00', 'UTC+08:00', 'UTC+09:30', 'UTC+10:00', 'UTC+10:30', 'UTC+11:30']",Australia and New Zealand,Oceania,1996-05-23,2023-08-15
+Austria,Österreich,AT,AUT,Vienna,"[48.208354, 16.372504]",['UTC+01:00'],Western Europe,Europe,1855-02-01,2023-08-15
+Azerbaijan,Azərbaycan,AZ,AZE,Baku,"[40.375443, 49.832675]",['UTC+04:00'],Middle East,Asia,1881-07-17,1992-01-31
+Bahrain,‏البحرين,BH,BHR,Manama,"[26.223504, 50.582244]",['UTC+03:00'],Middle East,Asia,1944-03-19,2023-08-15
+Bangladesh,বাংলাদেশ,BD,BGD,Dhaka,"[23.759357, 90.378814]",['UTC+06:00'],Southern and Central Asia,Asia,1901-01-01,2023-08-15
+Barbados,Barbados,BB,BRB,Bridgetown,"[13.097783, -59.618418]",['UTC−04:00'],Caribbean,North America,1943-09-17,2023-08-15
+Belarus,Белару́сь,BY,BLR,Minsk,"[53.902334, 27.561879]",['UTC+03:00'],Eastern Europe,Europe,1891-04-01,2023-08-15
+Belgium,België,BE,BEL,Brussels,"[50.846557, 4.351697]",['UTC+01:00'],Western Europe,Europe,1833-01-02,2023-08-15
+Belize,Belize,BZ,BLZ,Belmopan,"[17.250199, -88.770018]",['UTC−06:00'],Central America,North America,1960-11-07,2023-08-15
+Benin,Bénin,BJ,BEN,Porto-Novo,"[6.499072, 2.625336]",['UTC+01:00'],Western Africa,Africa,1941-01-02,2023-08-06
+Bermuda,Bermuda,BM,BMU,Hamilton,"[43.25608, -79.872858]",[],North America,North America,1991-05-24,2023-08-15
+Bhutan,ʼbrug-yul,BT,BTN,Thimphu,"[27.472762, 89.629548]",['UTC+06:00'],Southern and Central Asia,Asia,1901-01-01,2023-08-15
+Bolivia,Bolivia,BO,BOL,Sucre,"[-19.047725, -65.259431]",['UTC−04:00'],South America,South America,1973-06-13,2016-05-13
+Bosnia and Herzegovina,Bosna i Hercegovina,BA,BIH,Sarajevo,"[43.851977, 18.386687]",['UTC+01:00'],Southern Europe,Europe,1901-01-01,2023-08-15
+Botswana,Botswana,BW,BWA,Gaborone,"[-24.658136, 25.908847]",['UTC+02:00'],Southern Africa,Africa,1898-01-01,1991-06-27
+Brazil,Brasil,BR,BRA,Brasília,"[-10.333333, -53.2]","['UTC−05:00', 'UTC−04:00', 'UTC−03:00', 'UTC−02:00']",South America,South America,1962-12-24,2023-08-15
+British Indian Ocean Territory,British Indian Ocean Territory,IO,IOT,Diego Garcia,"[-7.338358, 72.471815]",[],Eastern Africa,Africa,1972-01-01,2023-08-15
+Brunei,Negara Brunei Darussalam,BN,BRN,Bandar Seri Begawan,"[4.889545, 114.941757]",['UTC+08:00'],Southeast Asia,Asia,1955-01-01,2023-08-15
+Bulgaria,България,BG,BGR,Sofia,"[-15.25384, 48.256216]",['UTC+02:00'],Eastern Europe,Europe,1973-01-02,2004-01-16
+Burkina Faso,Burkina Faso,BF,BFA,Ouagadougou,"[12.368187, -1.527094]",['UTC'],Western Africa,Africa,1967-01-01,2023-08-15
+Burundi,Burundi,BI,BDI,Bujumbura,"[-3.363812, 29.367503]",['UTC+02:00'],Eastern Africa,Africa,1950-01-01,2023-08-15
+Cambodia,Kâmpŭchéa,KH,KHM,Phnom Penh,"[11.568271, 104.922443]",['UTC+07:00'],Southeast Asia,Asia,1950-01-12,2023-08-15
+Cameroon,Cameroon,CM,CMR,Yaoundé,"[3.868987, 11.521334]",['UTC+01:00'],Central Africa,Africa,2000-10-11,2023-08-15
+Canada,Canada,CA,CAN,Ottawa,"[45.421106, -75.690308]","['UTC−08:00', 'UTC−07:00', 'UTC−06:00', 'UTC−05:00', 'UTC−04:00', 'UTC−03:30']",North America,North America,1938-11-01,2023-08-15
+Cape Verde,Cabo Verde,CV,CPV,Praia,"[14.916017, -23.509613]",['UTC−01:00'],Western Africa,Africa,1973-01-01,2023-08-15
+Cayman Islands,Cayman Islands,KY,CYM,George Town,"[5.414568, 100.329804]",[],Caribbean,North America,1949-01-04,2023-08-15
+Central African Republic,Ködörösêse tî Bêafrîka,CF,CAF,Bangui,"[4.390715, 18.550913]",['UTC+01:00'],Central Africa,Africa,1954-01-01,2013-03-20
+Chad,Tchad,TD,TCD,N'Djamena,"[12.119154, 15.050276]",['UTC+01:00'],Central Africa,Africa,1950-01-01,2023-08-15
+Chile,Chile,CL,CHL,Santiago,"[9.869479, -83.798075]","['UTC−06:00', 'UTC−04:00']",South America,South America,1949-02-01,2023-08-15
+China,中国,CN,CHN,Beijing,"[39.906217, 116.391276]",['UTC+08:00'],Eastern Asia,Asia,1945-10-31,2023-08-15
+Christmas Island,Christmas Island,CX,CXR,Flying Fish Cove,"[-10.426665, 105.668672]",[],Australia and New Zealand,Oceania,1972-09-01,2023-08-15
+Cocos (Keeling) Islands,Cocos (Keeling) Islands,CC,CCK,West Island,"[-12.189848, 96.830449]",[],Australia and New Zealand,Oceania,1949-08-19,2023-08-15
+Colombia,Colombia,CO,COL,Bogotá,"[4.59808, -74.076044]",['UTC−05:00'],South America,South America,1941-03-02,2023-08-15
+Comoros,Komori,KM,COM,Moroni,"[-11.693126, 43.254304]",['UTC+03:00'],Eastern Africa,Africa,1973-01-02,2023-08-15
+Cook Islands,Cook Islands,CK,COK,Avarua,"[-21.207474, -159.770814]",[],Polynesia,Oceania,1943-08-02,2023-08-15
+Costa Rica,Costa Rica,CR,CRI,San José,"[9.932543, -84.079578]",['UTC−06:00'],Central America,North America,1949-02-01,2023-08-15
+Croatia,Hrvatska,HR,HRV,Zagreb,"[45.813177, 15.977048]",['UTC+01:00'],Southern Europe,Europe,1860-12-30,2023-08-15
+Cuba,Cuba,CU,CUB,Havana,"[23.135305, -82.358963]",['UTC−05:00'],Caribbean,North America,1950-01-01,2023-08-15
+Cyprus,Κύπρος,CY,CYP,Nicosia,"[35.17393, 33.364726]",['UTC+02:00'],Middle East,Asia,1916-09-30,2023-08-15
+Czech Republic,Česká republika,CZ,CZE,Prague,"[50.087465, 14.421254]",['UTC+01:00'],Eastern Europe,Europe,1940-01-01,2023-08-15
+Democratic Republic of the Congo,République démocratique du Congo,CD,COD,Kinshasa,"[-4.321706, 15.312597]","['UTC+01:00', 'UTC+02:00']",,,1947-03-01,2023-08-15
+Denmark,Danmark,DK,DNK,Copenhagen,"[55.686724, 12.570072]","['UTC−04:00', 'UTC−03:00', 'UTC−01:00', 'UTC', 'UTC+01:00']",Nordic Countries,Europe,1873-12-31,2022-12-31
+Djibouti,Djibouti,DJ,DJI,Djibouti,"[11.814597, 42.845306]",['UTC+03:00'],Eastern Africa,Africa,1947-01-01,1987-12-31
+Dominica,Dominica,DM,DMA,Roseau,"[48.771037, -95.769788]",['UTC−04:00'],Caribbean,North America,1992-12-01,2023-08-15
+Dominican Republic,República Dominicana,DO,DOM,Santo Domingo,"[18.480197, -69.942111]",['UTC−04:00'],Caribbean,North America,1943-11-02,2023-08-15
+East Timor,Timor-Leste,TL,TLS,Dili,"[28.651718, 77.221939]",['UTC+09:00'],Southeast Asia,Asia,1901-01-01,2023-08-15
+Ecuador,Ecuador,EC,ECU,Quito,"[-0.220164, -78.512327]","['UTC−06:00', 'UTC−05:00']",South America,South America,1973-02-10,2023-08-15
+Egypt,مصر‎,EG,EGY,Cairo,"[30.048819, 31.243666]",['UTC+02:00'],Northern Africa,Africa,1943-11-01,2023-08-15
+El Salvador,El Salvador,SV,SLV,San Salvador,"[13.698994, -89.191425]",['UTC−06:00'],Central America,North America,1956-01-03,2023-08-15
+Equatorial Guinea,Guinea Ecuatorial,GQ,GNQ,Malabo,"[3.752828, 8.780061]",['UTC+01:00'],Central Africa,Africa,1948-01-01,2023-08-15
+Eritrea,ኤርትራ,ER,ERI,Asmara,"[15.338967, 38.932676]",['UTC+03:00'],Eastern Africa,Africa,1943-01-01,2023-08-15
+Estonia,Eesti,EE,EST,Tallinn,"[59.437216, 24.745369]",['UTC+02:00'],Baltic Countries,Europe,1936-01-01,2023-08-15
+Ethiopia,ኢትዮጵያ,ET,ETH,Addis Ababa,"[9.010793, 38.761252]",['UTC+03:00'],Eastern Africa,Africa,1951-01-01,2023-08-15
+Falkland Islands,Falkland Islands,FK,FLK,Stanley,"[-51.695058, -57.849169]",[],South America,South America,1962-07-22,2023-08-15
+Faroe Islands,Føroyar,FO,FRO,Tórshavn,"[62.012, -6.768]",[],Nordic Countries,Europe,1973-01-01,2023-08-15
+Federated States of Micronesia,Micronesia,FM,FSM,Palikir,"[6.920744, 158.162714]","['UTC+10:00', 'UTC+11']",Micronesia,Oceania,1949-11-30,2023-08-15
+Fiji,Fiji,FJ,FJI,Suva,"[-18.141588, 178.442166]",['UTC+12:00'],Melanesia,Oceania,1973-01-01,2023-08-15
+Finland,Suomi,FI,FIN,Helsinki,"[60.16741, 24.942577]",['UTC+02:00'],Nordic Countries,Europe,1952-01-01,2023-08-15
+France,France,FR,FRA,Paris,"[48.856697, 2.351462]","['UTC−10:00', 'UTC−09:30', 'UTC−09:00', 'UTC−08:00', 'UTC−04:00', 'UTC−03:00', 'UTC+01:00', 'UTC+03:00', 'UTC+04:00', 'UTC+05:00', 'UTC+11:00', 'UTC+12:00']",Western Europe,Europe,1900-01-01,2023-08-15
+French Guiana,Guyane française,GF,GUF,Cayenne,"[4.937114, -52.325831]",[],South America,South America,1943-06-01,2023-08-15
+French Polynesia,Polynésie française,PF,PYF,Papeetē,"[-17.537384, -149.565996]",[],Polynesia,Oceania,1943-08-04,2023-08-15
+French Southern and Antarctic Lands,Territoire des Terres australes et antarctiques françaises,TF,ATF,Port-aux-Français,"[-49.353677, 70.243567]",[],Antarctica,Antarctica,1973-01-15,2022-12-27
+Gabon,Gabon,GA,GAB,Libreville,"[0.390002, 9.454001]",['UTC+01:00'],Central Africa,Africa,1950-01-01,2004-07-24
+Georgia,საქართველო,GE,GEO,Tbilisi,"[41.693459, 44.80145]",[],Middle East,Asia,1881-01-01,2023-08-15
+Germany,Deutschland,DE,DEU,Berlin,"[52.517036, 13.38886]",['UTC+01:00'],Western Europe,Europe,1876-01-01,2023-08-15
+Ghana,Ghana,GH,GHA,Accra,"[5.560014, -0.205744]",['UTC'],Western Africa,Africa,1942-09-07,2023-08-15
+Gibraltar,Gibraltar,GI,GIB,Gibraltar,"[36.140807, -5.35413]",[],,,1912-06-29,2023-08-15
+Greece,Ελλάδα,GR,GRC,Athens,"[37.983941, 23.728305]",['UTC+02:00'],Southern Europe,Europe,1955-01-01,2023-08-15
+Greenland,Kalaallit Nunaat,GL,GRL,Nuuk,"[64.175029, -51.735539]",[],North America,North America,1958-01-01,2023-08-15
+Grenada,Grenada,GD,GRD,St. George's,"[48.658138, 6.928099]",['UTC−04:00'],Caribbean,North America,1923-05-01,2023-08-15
+Guadeloupe,Guadeloupe,GP,GLP,Basse-Terre,"[16.000078, -61.733337]",[],Caribbean,North America,1951-01-01,2023-08-15
+Guam,Guam,GU,GUM,Hagåtña,"[13.472745, 144.752018]",[],Micronesia,Oceania,1945-09-01,2023-08-15
+Guatemala,Guatemala,GT,GTM,Guatemala City,"[14.622233, -90.518519]",['UTC−06:00'],Central America,North America,1942-04-12,2023-08-15
+Guernsey,Guernsey,GG,GGY,St. Peter Port,"[49.456814, -2.538998]",[],,,1880-01-01,2023-08-15
+Guinea,Guinée,GN,GIN,Conakry,"[9.51706, -13.699843]",['UTC'],Western Africa,Africa,1940-01-01,2023-08-15
+Guinea-Bissau,Guiné-Bissau,GW,GNB,Bissau,"[11.861324, -15.583055]",['UTC'],Western Africa,Africa,1973-01-01,2023-08-15
+Guyana,Guyana,GY,GUY,Georgetown,"[6.802577, -58.162861]",['UTC−04:00'],South America,South America,1941-08-25,2023-08-15
+Haiti,Haïti,HT,HTI,Port-au-Prince,"[18.547327, -72.339593]",['UTC−05:00'],Caribbean,North America,1973-01-04,2023-08-15
+Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,,,[],Antarctica,Antarctica,,
+Honduras,Honduras,HN,HND,Tegucigalpa,"[14.105686, -87.204676]",['UTC−06:00'],Central America,North America,1957-07-01,2023-08-15
+Hong Kong,香港,HK,HKG,City of Victoria,"[-36.59861, 144.678005]",['UTC+08:00'],Eastern Asia,Asia,1991-10-28,2023-08-15
+Hungary,Magyarország,HU,HUN,Budapest,"[47.498382, 19.040471]",['UTC+01:00'],Eastern Europe,Europe,1973-01-01,2023-08-15
+Iceland,Ísland,IS,ISL,Reykjavik,"[64.145981, -21.942237]",['UTC'],Nordic Countries,Europe,1941-09-01,2023-08-15
+India,भारत,IN,IND,New Delhi,"[28.614179, 77.202266]",['UTC+05:30'],Southern and Central Asia,Asia,1901-01-01,2023-08-15
+Indonesia,Indonesia,ID,IDN,Jakarta,"[-6.175394, 106.827183]","['UTC+07:00', 'UTC+08:00', 'UTC+09:00']",Southeast Asia,Asia,1973-01-12,2023-08-15
+Iran,Irān,IR,IRN,Tehran,"[35.700618, 51.401378]",['UTC+03:30'],Southern and Central Asia,Asia,1943-11-01,2023-08-15
+Iraq,العراق,IQ,IRQ,Baghdad,"[33.302431, 44.378799]",['UTC+03:00'],Middle East,Asia,1973-04-09,2023-08-15
+Ireland,Éire,IE,IRL,Dublin,"[53.349764, -6.260273]",['UTC'],British Isles,Europe,1867-01-01,2023-08-15
+Isle of Man,Isle of Man,IM,IMN,Douglas,"[39.762842, -88.217052]",[],,,2006-01-01,2023-08-15
+Israel,יִשְׂרָאֵל,IL,ISR,Jerusalem,"[31.778345, 35.225079]",['UTC+02:00'],Middle East,Asia,1943-11-01,2023-08-15
+Italy,Italia,IT,ITA,Rome,"[41.89332, 12.482932]",['UTC+01:00'],Southern Europe,Europe,1951-01-01,2023-08-15
+Ivory Coast,Côte d'Ivoire,CI,CIV,Yamoussoukro,"[6.809107, -5.273263]",['UTC'],,,1945-01-01,2023-08-15
+Jamaica,Jamaica,JM,JAM,Kingston,"[17.971215, -76.792813]",['UTC−05:00'],Caribbean,North America,1941-12-22,2023-08-15
+Japan,日本,JP,JPN,Tokyo,"[35.682839, 139.759455]",['UTC+09:00'],Eastern Asia,Asia,1946-09-12,2023-08-15
+Jersey,Jersey,JE,JEY,Saint Helier,"[47.384387, 4.683325]",[],,,1973-01-01,2023-08-15
+Jordan,الأردن,JO,JOR,Amman,"[31.951569, 35.923962]",['UTC+03:00'],Middle East,Asia,1974-12-07,2023-08-15
+Kazakhstan,Қазақстан,KZ,KAZ,Astana,"[51.12822, 71.430668]","['UTC+05:00', 'UTC+06:00']",Southern and Central Asia,Asia,1881-01-01,2023-08-15
+Kenya,Kenya,KE,KEN,Nairobi,"[-1.283253, 36.817245]",['UTC+03:00'],Eastern Africa,Africa,1957-01-01,2023-08-15
+Kiribati,Kiribati,KI,KIR,South Tarawa,"[1.349078, 173.038651]","['UTC+12:00', 'UTC+13:00', 'UTC+14:00']",Micronesia,Oceania,1944-01-07,2023-08-15
+Kuwait,الكويت,KW,KWT,Kuwait City,"[29.379709, 47.973563]",['UTC+03:00'],Middle East,Asia,1955-01-01,2023-08-15
+Kyrgyzstan,Кыргызстан,KG,KGZ,Bishkek,"[42.876562, 74.607008]",['UTC+06:00'],Southern and Central Asia,Asia,1936-01-01,2023-08-15
+Laos,ສປປລາວ,LA,LAO,Vientiane,"[17.964099, 102.613371]",['UTC+07:00'],Southeast Asia,Asia,1950-06-22,2023-08-15
+Latvia,Latvija,LV,LVA,Riga,"[56.949398, 24.105185]",['UTC+02:00'],Baltic Countries,Europe,1943-01-01,2023-08-15
+Lebanon,لبنان,LB,LBN,Beirut,"[33.89592, 35.47843]",['UTC+02:00'],Middle East,Asia,1928-09-01,2023-01-28
+Lesotho,Lesotho,LS,LSO,Maseru,"[-29.310054, 27.478222]",['UTC+02:00'],Southern Africa,Africa,1905-11-01,2023-08-15
+Liberia,Liberia,LR,LBR,Monrovia,"[6.328034, -10.797788]",['UTC'],Western Africa,Africa,1942-07-06,2023-08-15
+Libya,‏ليبيا,LY,LBY,Tripoli,"[32.896672, 13.177792]",['UTC+01:00'],Northern Africa,Africa,1920-01-01,2023-08-15
+Liechtenstein,Liechtenstein,LI,LIE,Vaduz,"[47.139286, 9.522796]",['UTC+01:00'],Western Europe,Europe,1882-09-01,2023-08-15
+Lithuania,Lietuva,LT,LTU,Vilnius,"[54.687046, 25.282911]",['UTC+02:00'],Baltic Countries,Europe,1881-01-01,2023-08-15
+Luxembourg,Luxembourg,LU,LUX,Luxembourg,"[49.815868, 6.129675]",['UTC+01:00'],Western Europe,Europe,1907-05-01,2023-08-15
+Macau,澳門,MO,MAC,,,['UTC+08:00'],Eastern Asia,Asia,,
+Macedonia,Македонија,MK,MKD,Skopje,"[41.996092, 21.43165]",['UTC+01:00'],Southern Europe,Europe,1977-06-19,2023-08-15
+Madagascar,Madagasikara,MG,MDG,Antananarivo,"[-18.910012, 47.525581]",['UTC+03:00'],Eastern Africa,Africa,1973-01-02,2023-08-15
+Malawi,Malawi,MW,MWI,Lilongwe,"[-13.987511, 33.768144]",['UTC+02:00'],Eastern Africa,Africa,1940-01-01,1990-06-30
+Malaysia,Malaysia,MY,MYS,Kuala Lumpur,"[3.151696, 101.694237]",['UTC+08:00'],Southeast Asia,Asia,1949-02-27,2023-08-15
+Maldives,Maldives,MV,MDV,Malé,"[16.370036, -2.290024]",['UTC+05:00'],Southern and Central Asia,Asia,1957-07-01,2023-08-15
+Mali,Mali,ML,MLI,Bamako,"[12.605033, -7.986514]",['UTC'],Western Africa,Africa,1945-01-01,2023-08-15
+Malta,Malta,MT,MLT,Valletta,"[35.898982, 14.513676]",['UTC+01:00'],Southern Europe,Europe,1956-01-01,2023-08-15
+Marshall Islands,M̧ajeļ,MH,MHL,Majuro,"[7.090992, 171.381635]",['UTC+12:00'],Micronesia,Oceania,1946-06-22,2023-08-15
+Martinique,Martinique,MQ,MTQ,Fort-de-France,"[14.602796, -61.067672]",[],Caribbean,North America,1958-12-29,2023-08-15
+Mauritania,موريتانيا,MR,MRT,Nouakchott,"[18.079238, -15.978007]",['UTC'],Western Africa,Africa,1857-03-01,2023-08-15
+Mauritius,Maurice,MU,MUS,Port Louis,"[-20.163728, 57.504533]",['UTC+04:00'],Eastern Africa,Africa,1951-01-01,2023-08-15
+Mayotte,Mayotte,YT,MYT,Mamoudzou,"[-12.780586, 45.227991]",[],Eastern Africa,Africa,1973-01-02,2023-08-15
+Mexico,México,MX,MEX,Mexico City,"[19.43263, -99.133178]","['UTC−08:00', 'UTC−07:00', 'UTC−06:00']",Central America,North America,1968-01-01,2023-08-15
+Moldova,Moldova,MD,MDA,Chișinău,"[47.024471, 28.832253]",['UTC+02:00'],Eastern Europe,Europe,1886-11-01,2023-08-15
+Monaco,Monaco,MC,MCO,Monaco,"[43.732349, 7.427683]",['UTC+01:00'],Western Europe,Europe,1945-10-01,2023-08-15
+Mongolia,Монгол улс,MN,MNG,Ulan Bator,"[47.918468, 106.917702]","['UTC+07:00', 'UTC+08:00']",Eastern Asia,Asia,1956-08-20,2023-08-01
+Montserrat,Montserrat,MS,MSR,Plymouth,"[50.371266, -4.142566]",[],Caribbean,Europe,1973-01-03,2023-08-15
+Morocco,المغرب,MA,MAR,Rabat,"[34.022405, -6.834543]",['UTC'],Northern Africa,North America,1943-01-01,2023-08-15
+Mozambique,Moçambique,MZ,MOZ,Maputo,"[-25.966213, 32.56745]",['UTC+02:00'],Eastern Africa,Africa,1910-02-01,2023-08-15
+Namibia,Namibia,NA,NAM,Windhoek,"[-22.574392, 17.079069]",['UTC+01:00'],Southern Africa,Africa,1913-01-01,2023-08-15
+Nauru,Nauru,NR,NRU,Yaren,"[-0.547101, 166.9164]",['UTC+12:00'],Micronesia,Oceania,1944-01-07,2023-08-15
+Nepal,नेपाल,NP,NPL,Kathmandu,"[27.708317, 85.320582]",['UTC+05:45'],Southern and Central Asia,Asia,1901-01-01,1970-12-31
+Netherlands,Nederland,NL,NLD,Amsterdam,"[52.37276, 4.893604]",[],Western Europe,Europe,1973-01-02,2023-08-15
+New Caledonia,Nouvelle-Calédonie,NC,NCL,Nouméa,"[-22.274526, 166.442419]",[],Melanesia,Oceania,1943-01-01,2023-08-15
+New Zealand,New Zealand,NZ,NZL,Wellington,"[-41.288795, 174.777211]","['UTC−11:00', 'UTC−10:00', 'UTC+12:00', 'UTC+12:45', 'UTC+13:00']",Australia and New Zealand,Oceania,1972-01-01,2023-08-15
+Nicaragua,Nicaragua,NI,NIC,Managua,"[12.145991, -86.274666]",['UTC−06:00'],Central America,North America,1942-10-01,2023-08-15
+Niger,Niger,NE,NER,Niamey,"[13.524834, 2.109823]",['UTC+01:00'],Western Africa,Africa,1933-08-01,2023-08-15
+Nigeria,Nigeria,NG,NGA,Abuja,"[9.06433, 7.489297]",['UTC+01:00'],Western Africa,Africa,1973-03-02,2023-08-15
+Niue,Niuē,NU,NIU,Alofi,"[-19.053416, -169.919199]",[],Polynesia,Oceania,1945-08-01,2023-08-15
+Norfolk Island,Norfolk Island,NF,NFK,Kingston,"[17.971215, -76.792813]",[],Australia and New Zealand,Oceania,1941-12-22,2023-08-15
+North Korea,북한,KP,PRK,Pyongyang,"[39.019474, 125.753388]",['UTC+09:00'],Eastern Asia,Asia,1950-10-24,2023-08-15
+Northern Mariana Islands,Northern Mariana Islands,MP,MNP,Saipan,"[15.190983, 145.746853]",[],Micronesia,Oceania,1944-07-17,2023-08-15
+Norway,Norge,NO,NOR,Oslo,"[59.91333, 10.73897]",['UTC+01:00'],Nordic Countries,Europe,1937-01-01,2023-08-15
+Oman,عمان,OM,OMN,Muscat,"[23.599786, 58.54513]",['UTC+04:00'],Middle East,Asia,1983-01-01,2023-08-15
+Pakistan,Pakistan,PK,PAK,Islamabad,"[33.693812, 73.065151]",['UTC+05:00'],Southern and Central Asia,Asia,1973-01-04,2023-08-15
+Palau,Palau,PW,PLW,Ngerulmud,"[7.500619, 134.624301]",['UTC+09:00'],Micronesia,Oceania,1945-07-01,2023-08-15
+Panama,Panamá,PA,PAN,Panama City,"[8.971449, -79.53418]",['UTC−05:00'],Central America,North America,1973-02-17,2023-08-15
+Papua New Guinea,Papua Niugini,PG,PNG,Port Moresby,"[-9.47433, 147.15995]",['UTC+10:00'],Melanesia,Oceania,1997-01-04,2023-08-15
+Paraguay,Paraguay,PY,PRY,Asunción,"[-25.280046, -57.634381]",['UTC−04:00'],South America,South America,1949-01-02,2023-08-15
+Peru,Perú,PE,PER,Lima,"[-12.062106, -77.036526]",['UTC−05:00'],South America,South America,1963-01-03,2023-08-15
+Philippines,Pilipinas,PH,PHL,Manila,"[14.590622, 120.97997]",['UTC+08:00'],Southeast Asia,Asia,1945-03-01,2023-08-15
+Pitcairn Islands,Pitcairn Islands,PN,PCN,Adamstown,"[-25.066667, -130.100205]",[],Polynesia,Oceania,1972-01-03,2004-10-31
+Poland,Polska,PL,POL,Warsaw,"[52.233717, 21.071411]",['UTC+01:00'],Eastern Europe,Europe,1952-01-02,2023-08-15
+Portugal,Portugal,PT,PRT,Lisbon,"[38.707751, -9.136592]","['UTC−01:00', 'UTC']",Southern Europe,Europe,1900-12-31,2023-08-15
+Puerto Rico,Puerto Rico,PR,PRI,San Juan,"[18.465299, -66.116666]",[],Caribbean,North America,1941-06-17,2023-08-15
+Qatar,قطر,QA,QAT,Doha,"[25.285633, 51.526416]",['UTC+03:00'],Middle East,Asia,1983-01-01,2023-08-15
+Republic of the Congo,République du Congo,CG,COG,Brazzaville,"[-4.269441, 15.271226]",['UTC+01:00'],Central Africa,Africa,1947-03-01,2023-08-15
+Romania,România,RO,ROU,Bucharest,"[44.436141, 26.10272]",['UTC+02:00'],Eastern Europe,Europe,1929-01-01,2023-08-15
+Russia,Россия,RU,RUS,Moscow,"[55.750446, 37.617494]","['UTC+03:00', 'UTC+04:00', 'UTC+06:00', 'UTC+07:00', 'UTC+08:00', 'UTC+09:00', 'UTC+10:00', 'UTC+11:00', 'UTC+12:00']",Eastern Europe,Europe,1936-12-31,2023-08-15
+Rwanda,Rwanda,RW,RWA,Kigali,"[-1.88596, 30.129675]",['UTC+02:00'],Eastern Africa,Africa,1926-01-01,2023-08-15
+Réunion,La Réunion,RE,REU,Saint-Denis,"[48.935773, 2.358023]",[],Eastern Africa,Africa,1900-01-01,2023-08-15
+Saint Helena,Saint Helena,SH,SHN,Jamestown,"[37.210443, -76.773893]",[],Western Africa,Africa,1960-11-02,2023-08-15
+Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,Basseterre,"[17.296092, -62.722301]",['UTC−04:00'],Caribbean,North America,1959-01-30,2023-08-15
+Saint Lucia,Saint Lucia,LC,LCA,Castries,"[13.952589, -60.987824]",['UTC−04:00'],Caribbean,North America,1958-12-29,2023-08-15
+Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,PM,SPM,Saint-Pierre,"[48.383272, 7.471873]",[],North America,North America,1923-05-01,2023-08-15
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,Kingstown,"[13.156186, -61.227962]",['UTC−04:00'],Caribbean,North America,2005-01-07,2023-08-15
+Samoa,Samoa,WS,WSM,Apia,"[-13.834369, -171.769279]",['UTC+13:00'],Polynesia,Oceania,1998-05-23,2023-08-15
+San Marino,San Marino,SM,SMR,City of San Marino,"[43.9364, 12.446699]",['UTC+01:00'],Southern Europe,Europe,1945-04-08,2023-08-15
+Saudi Arabia,العربية السعودية,SA,SAU,Riyadh,"[24.631969, 46.715065]",['UTC+03:00'],Middle East,Asia,1958-03-05,2023-08-15
+Scotland,,,,,,[],,Europe,,
+Senegal,Sénégal,SN,SEN,Dakar,"[14.693425, -17.447938]",['UTC'],Western Africa,Africa,1943-04-01,2023-08-15
+Serbia,Srbija,RS,SRB,Belgrade,"[44.817813, 20.456897]","['UTC+01:00', 'UTC+02:00']",,,1935-12-31,2023-08-15
+Seychelles,Seychelles,SC,SYC,Victoria,"[-36.59861, 144.678005]",['UTC+04:00'],Eastern Africa,Africa,1991-10-28,2023-08-15
+Sierra Leone,Sierra Leone,SL,SLE,Freetown,"[8.479004, -13.26795]",['UTC'],Western Africa,Africa,1940-01-01,2023-08-15
+Singapore,Singapore,SG,SGP,Singapore,"[1.357107, 103.819499]",['UTC+08:00'],Southeast Asia,Asia,1962-05-12,2023-08-15
+Slovakia,Slovensko,SK,SVK,Bratislava,"[48.151699, 17.109306]",['UTC+01:00'],Eastern Europe,Europe,1973-01-04,2023-08-15
+Slovenia,Slovenija,SI,SVN,Ljubljana,"[46.04998, 14.50686]",['UTC+01:00'],Southern Europe,Europe,1899-12-31,2023-08-15
+Solomon Islands,Solomon Islands,SB,SLB,Honiara,"[-9.431077, 159.955255]",['UTC+11:00'],Melanesia,Oceania,1943-03-16,2023-08-15
+Somalia,Soomaaliya,SO,SOM,Mogadishu,"[2.042778, 45.338564]",['UTC+03:00'],Eastern Africa,Africa,1957-01-01,2023-08-15
+South Africa,South Africa,ZA,ZAF,Pretoria,"[-25.745937, 28.187944]",['UTC+02:00'],Southern Africa,Africa,1973-01-20,2023-08-15
+South Georgia,South Georgia,GS,SGS,King Edward Point,"[-54.283545, -36.494636]",[],Antarctica,Antarctica,1953-01-01,2023-08-15
+South Korea,대한민국,KR,KOR,Seoul,"[37.566679, 126.978291]",['UTC+09:00'],Eastern Asia,Asia,1945-10-01,2023-08-15
+South Sudan,South Sudan,SS,SSD,Juba,"[4.847202, 31.595166]",['UTC+03:00'],Eastern Africa,Africa,1926-01-01,2023-08-15
+Spain,España,ES,ESP,Madrid,"[40.416705, -3.703582]","['UTC', 'UTC+01:00']",Southern Europe,Europe,1920-01-01,2023-08-15
+Sri Lanka,śrī laṃkāva,LK,LKA,Colombo,"[6.934997, 79.853846]",['UTC+05:30'],Southeast Asia,Asia,1869-02-01,2023-08-15
+Sudan,السودان,SD,SDN,Khartoum,"[15.593325, 32.53565]",['UTC+03:00'],Northern Africa,Africa,1942-11-01,2023-08-15
+Suriname,Suriname,SR,SUR,Paramaribo,"[5.821609, -55.177043]",['UTC−03:00'],South America,South America,1942-09-01,2023-08-15
+Svalbard and Jan Mayen,Svalbard og Jan Mayen,SJ,SJM,Longyearbyen,"[78.223156, 15.646366]",[],Nordic Countries,Europe,1932-01-01,2023-08-15
+Swaziland,Swaziland,SZ,SWZ,Lobamba,"[-26.446285, 31.208378]",['UTC+02:00'],Southern Africa,Africa,1910-02-01,2023-08-15
+Sweden,Sverige,SE,SWE,Stockholm,"[59.325117, 18.071094]",['UTC+01:00'],Nordic Countries,Europe,1859-01-01,2023-08-15
+Switzerland,Schweiz,CH,CHE,Bern,"[46.948271, 7.451451]",['UTC+01:00'],Western Europe,Europe,2010-11-26,2023-08-15
+Syria,سوريا,SY,SYR,Damascus,"[33.51307, 36.309581]",['UTC+02:00'],Middle East,Asia,1928-09-01,2023-01-28
+São Tomé and Príncipe,São Tomé e Príncipe,ST,STP,São Tomé,"[0.338924, 6.731303]",['UTC'],Central Africa,Africa,1950-01-01,2023-08-15
+Taiwan,臺灣,TW,TWN,Taipei,"[25.03752, 121.56368]",['UTC+08:00'],,,1947-01-01,2023-08-15
+Tajikistan,Тоҷикистон,TJ,TJK,Dushanbe,"[38.542584, 68.815214]",['UTC+05:00'],Southern and Central Asia,Asia,1926-04-01,2023-08-15
+Tanzania,Tanzania,TZ,TZA,Dodoma,"[-6.337282, 35.737177]",['UTC+03:00'],Eastern Africa,Africa,1950-01-01,2023-08-15
+Thailand,ประเทศไทย,TH,THA,Bangkok,"[13.754253, 100.493087]",['UTC+07:00'],Southeast Asia,Asia,1943-01-01,2023-08-15
+The Bahamas,Bahamas,BS,BHS,Nassau,"[25.078346, -77.338333]",['UTC−05:00'],Caribbean,North America,1961-01-01,2023-08-15
+The Gambia,Gambia,GM,GMB,Banjul,"[13.441346, -16.562471]",[],Western Africa,Africa,1973-01-01,2023-08-15
+Togo,Togo,TG,TGO,Lomé,"[6.130419, 1.215829]",['UTC'],Western Africa,Africa,1954-09-01,2023-08-15
+Tokelau,Tokelau,TK,TKL,Fakaofo,"[-9.374305, -171.264536]",[],Polynesia,Oceania,1973-01-02,1995-12-16
+Tonga,Tonga,TO,TON,Nuku'alofa,"[-21.13434, -175.201808]",['UTC+13:00'],Polynesia,Oceania,1943-01-02,1943-06-27
+Trinidad and Tobago,Trinidad and Tobago,TT,TTO,Port of Spain,"[10.657268, -61.518017]",['UTC−04:00'],Caribbean,North America,1961-01-01,2021-09-22
+Tunisia,تونس,TN,TUN,Tunis,"[33.843941, 9.400138]",['UTC+01:00'],Northern Africa,Africa,1887-01-01,2023-08-15
+Turkey,Türkiye,TR,TUR,Ankara,"[39.920777, 32.854067]",['UTC+02:00'],Middle East,Asia,1945-02-08,2023-08-15
+Turkmenistan,Türkmenistan,TM,TKM,Ashgabat,"[37.939668, 58.387426]",['UTC+05:00'],Southern and Central Asia,Asia,1933-01-12,2023-08-15
+Tuvalu,Tuvalu,TV,TUV,Funafuti,"[-8.534995, 179.11865]",['UTC+12:00'],Polynesia,Oceania,1943-07-20,2023-08-15
+Uganda,Uganda,UG,UGA,Kampala,"[0.317714, 32.581354]",['UTC+03:00'],Eastern Africa,Africa,1926-01-01,2023-08-15
+Ukraine,Україна,UA,UKR,Kiev,"[50.450034, 30.524136]",['UTC+02:00'],Eastern Europe,Europe,1881-01-01,2023-08-15
+United Arab Emirates,دولة الإمارات العربية المتحدة,AE,ARE,Abu Dhabi,"[24.474796, 54.370576]",['UTC+04'],Middle East,Asia,1983-01-02,2023-08-15
+United Kingdom,United Kingdom,GB,GBR,London,"[51.507322, -0.127647]","['UTC−08:00', 'UTC−05:00', 'UTC−04:00', 'UTC−03:00', 'UTC−02:00', 'UTC', 'UTC+01:00', 'UTC+02:00', 'UTC+06:00']",British Isles,Europe,1948-12-01,2023-08-15
+United States,United States,US,USA,Washington D.C.,"[38.894986, -77.036571]","['UTC−12:00', 'UTC−11:00', 'UTC−10:00', 'UTC−09:00', 'UTC−08:00', 'UTC−07:00', 'UTC−06:00', 'UTC−05:00', 'UTC−04:00', 'UTC+10:00', 'UTC+12:00']",North America,North America,1936-09-01,2023-08-15
+Uruguay,Uruguay,UY,URY,Montevideo,"[-34.905904, -56.191357]",['UTC−03:00'],South America,South America,1957-06-30,2023-08-15
+Uzbekistan,O‘zbekiston,UZ,UZB,Tashkent,"[41.312336, 69.278708]",['UTC+05:00'],Southern and Central Asia,Asia,1881-01-01,2023-08-15
+Vanuatu,Vanuatu,VU,VUT,Port Vila,"[-17.741497, 168.315016]",['UTC+11:00'],Melanesia,Oceania,1973-01-01,2023-08-15
+Venezuela,Venezuela,VE,VEN,Caracas,"[10.506098, -66.914602]",['UTC−04:30'],South America,South America,1967-01-01,2023-08-15
+Vietnam,Việt Nam,VN,VNM,Hanoi,"[21.02945, 105.854444]",['UTC+07:00'],Southeast Asia,Asia,1958-12-18,2023-08-15
+Wales,,GB,GBR,,,[],,Europe,,
+Wallis and Futuna,Wallis et Futuna,WF,WLF,Mata-Utu,"[-13.282042, -176.174022]",[],Polynesia,Oceania,1943-08-09,2023-08-15
+Western Sahara,الصحراء الغربية,EH,ESH,El Aaiún,"[27.154512, -13.195392]",[],Northern Africa,Africa,1957-01-20,2023-08-15
+Yemen,اليَمَن,YE,YEM,Sana'a,"[15.353857, 44.205884]",['UTC+03:00'],Middle East,Asia,2002-06-04,2023-08-14
+Zambia,Zambia,ZM,ZMB,Lusaka,"[-15.416449, 28.282154]",['UTC+02:00'],Eastern Africa,Europe,1957-06-01,1990-12-30
+Zimbabwe,Zimbabwe,ZW,ZWE,Harare,"[-17.831773, 31.045686]",['UTC+02:00'],Eastern Africa,Africa,1951-07-01,2023-08-15
